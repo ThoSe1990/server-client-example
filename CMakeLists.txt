@@ -24,4 +24,5 @@ endif()
 
 
 add_subdirectory(server)
+add_subdirectory(async_server)
 add_subdirectory(client)
